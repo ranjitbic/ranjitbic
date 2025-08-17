@@ -30,15 +30,14 @@ Git | GitHub | Docker | Linux | Fabric.js | Three.js
 
 ## 📊 GitHub Stats  
 
-![Ranjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjitbic&show_icons=true&theme=tokyonight)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjitbic&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/ranjitbichukale/)  
-- 📧 Email: your-email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ranjitbichukale/)  
+- 📧 Email: ranjitbichukale11@gmail.com  
 - 🐙 [GitHub](https://github.com/ranjitbic)  
 
 ---
